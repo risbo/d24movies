@@ -31,6 +31,8 @@ You can access the Swagger UI for API documentation at the following URL:
 ```bash
 http://localhost:8080/swagger-ui/index.html
 ```
+![Swagger Logo](recursos/swagger.png)
+
 This will provide you with an interactive interface to explore and test the API endpoints.
 
 ### API Endpoint
