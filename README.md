@@ -33,8 +33,6 @@ This project is a Spring Boot application that uses Maven for dependency managem
 
 8. <span style="color:green">**Alternative Implementation (Spring Boot)**: [COMPLETED]</span>
     - Create a new Spring Boot project with a REST endpoint `/api/directors?threshold=<threshold>`.
-    - Implement the functionality to retrieve, process, and return the list of directors as described above.
-    - Share the solution via a .zip file or GitHub repository URL.
 
 
 ### Requirements
