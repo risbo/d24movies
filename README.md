@@ -4,7 +4,7 @@
 
 This project is a Spring Boot application that uses Maven for dependency management and build automation. To run this project, you will need the following:
 
-# Objectives of the Requirements
+## Objectives of the Requirements
 
 1. <span style="color:green">**Retrieve Movie Data**: [COMPLETED]</span>
     - Access the collection of movies released after 2010 directed by acclaimed directors.
